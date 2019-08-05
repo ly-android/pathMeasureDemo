@@ -12,6 +12,6 @@
 /captures
 .externalNativeBuild
 
-markdown-navigator.xml
-misc.xml
-Project.xml
+/.idea/markdown-navigator.xml
+/.idea/misc.xml
+/.idea/codeStyles/Project.xml
