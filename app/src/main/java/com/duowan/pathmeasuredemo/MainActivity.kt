@@ -42,6 +42,9 @@ class MainActivity : AppCompatActivity() {
         tv7.setOnClickListener {
             startActivity(Intent(this, Demo7::class.java))
         }
+        tv8.setOnClickListener {
+            startActivity(Intent(this, Demo8::class.java))
+        }
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
